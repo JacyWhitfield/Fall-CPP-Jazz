@@ -1,0 +1,6555 @@
+fileFormatVersion: 2
+guid: e1bfc352e5d18c5408dfb896901ca6e1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1049
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eade7ea39e0494aab93fbd2541f9d2
+      internalID: -1123076922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fa313c708f1c47a3c4491b1180a09
+      internalID: 267769205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591648bf7b71f645831f18432d2ab58
+      internalID: -316146746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1048
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0fdf15fd299e4c8b825cd9fccea6c
+      internalID: -221288014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1049
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e167ec067d9574abf6eb81a634ff45
+      internalID: 1867298594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26fad26d2ecd84196d527ca232422f
+      internalID: 1112131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1044
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9018778772b06408cee376ecd0cc6f
+      internalID: 1272069951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1038
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503a3e07092d7b4193f91700962d454
+      internalID: -1570871655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1038
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4d37aa7e656441aeea76f0cad7e75
+      internalID: 1171386773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1039
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7cf12f977444b4fa2c305a8bfb8127
+      internalID: 1866347114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 959
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04389910aa32e943be450d18f1c0463
+      internalID: -1571971108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 959
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5975b40b99b924fbe6dd4ec8e80b3c
+      internalID: -1699398070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 959
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762c7a7b5a46584babd8b55ade0f23f
+      internalID: 571164199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 919
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee84e06331db741bd959ac76c0f47e
+      internalID: 1014373949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 919
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed04785816f404ea245d3a0ac5f36a
+      internalID: -1025582460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 919
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349db4dc5f13894391592a322abca7e
+      internalID: -650839921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 889
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edc78ea92352249b71e12d91856fe8
+      internalID: -737950375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 889
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17c0675742259e4dba4c4f505c6a8bb
+      internalID: -471379311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 917
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfede0d00533d3409a4b03c8764073d
+      internalID: 18861412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b96cecf60c7c346b8ed008bddad94f
+      internalID: 444014319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 805
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b517f8fb3c7f9458ce0d7daca2421c
+      internalID: -12188781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 805
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf3629a838266479f66d4f01a5778c
+      internalID: -2082662284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 805
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1875cf55018e4baf65111d6441322
+      internalID: 427397629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 837
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e1187cfc4e284cb409162856ddb3c
+      internalID: -1534654272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 769
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ef203b15607a43979c3c8f7fb02d0
+      internalID: -1724634433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 819
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4663a46a053f0294ab6de382286ba797
+      internalID: -1667936524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 819
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6576cdd0283f42b5dd8f418cb8d76
+      internalID: 1838752959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 819
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba02268dcc0a84f811ed95beee0063
+      internalID: 1142508446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 766
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf391ba6a0cde4198939ef4f8b8c54
+      internalID: 2102367055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 746
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d147433938a8dd141a28e97e8d7c40d2
+      internalID: 2045758255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 691
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8cbea26c4b0444a304ba53f839ef1
+      internalID: 1567255745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 691
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc6f42baddec04fbae5d608e6e27b8
+      internalID: -1984333819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 691
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564ada2b6584cb4288a2c3aae56cb31
+      internalID: 1057816614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 677
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d364798ca8877e4a94909e6ec8bfe88
+      internalID: -1825275000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 747
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925a8a88aaeef54097d1e1c6c1ab6eb
+      internalID: 814094007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 677
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6b412f44102f47bad98b0244dbdff
+      internalID: -1113326432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 703
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2be51cc1fbcd4bbd398abee8d73eb
+      internalID: -991351521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 606
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb211a5ec22fcd468bb4e0b1f34132d
+      internalID: -1823404238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 684
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdbf586dc656a48b24a48f95ce5731
+      internalID: 173288622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 577
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1869a4b6f32d15449b9eb41c779c908
+      internalID: 1707738391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_40
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 577
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee257eef97de64ea87fcf410782362
+      internalID: -1304773125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 667
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57a1a9a872a4946aa680a8d4aadc69
+      internalID: 326879911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 677
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365a590aaa85ff4f98fc431614cc1b5
+      internalID: -654762553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 606
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44014bed9b160c4bbbfe531f672336d
+      internalID: -240945753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 606
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed75807cf2b7f9b4b8c89d1939cfd8f3
+      internalID: 1556673365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 640
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7fdbb0314b7124384f794321616a0c
+      internalID: 498739943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 640
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673509261288c184c8fc24f089208cbe
+      internalID: 1687439051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 641
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8f6c25f0a74042855e1903e8fa94f
+      internalID: -371865229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a5f948fb57cf4291ef098bdedc868
+      internalID: 742751228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 604
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6448feb3c3a6e40a2d5534899a7250
+      internalID: -81446026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 615
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92998360f295a42933066458a1694f
+      internalID: -1994856928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 606
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b67491c9d656d47a79b4a61eaa40f0
+      internalID: 491157615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 587
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd9d2742feff424e92f03844448fc3f
+      internalID: 664728136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 533
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33f7014f06c4d459e3e13fd3d014c9
+      internalID: -840339793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 559
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c241f113e0a9408c06be42a617cca
+      internalID: 1204726650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 533
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265be1b04489e94a81642bc4c07a57c
+      internalID: 922798673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 533
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118109a8e5878447baa629ac14ddfac
+      internalID: -297243051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740cd7cc222b8cf4fb8bc400d4d59ebf
+      internalID: -791133345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad54c06b6f08d4dada60f60829c31e
+      internalID: 273104089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 563
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94532c832dd1b8b41acd9f91af40393c
+      internalID: -1648891096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 557
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ed0a72a1a3d14bab5e3a4b83530db
+      internalID: 275038963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 536
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c493ee152d5e54492d05ff36d163c8
+      internalID: 2119886505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97614aef50b42d843bfad0b7f5245e1c
+      internalID: -623538520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 541
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b4c797be3ba243b520ee90f7d9b02
+      internalID: -1506922348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 538
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d7b144a6c5224e91c76888a4be184
+      internalID: 1627160730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 536
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89f5f1753270d45abc3025fd79f11f
+      internalID: -2020062597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 537
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65432d2113ba8824db81e0f111e7a2a9
+      internalID: -1973435113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 538
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d25be0e6e4b094483e966dc84a22d6
+      internalID: 36510908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 539
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f1b8ea5d7d2a44adf21b5d8972bd6
+      internalID: 1772779593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 543
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215578ba32ea444ea35b5a8bc68b423
+      internalID: 1866526611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_70
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 534
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4e5f4ac9e63944b12a60f8a8b15b6
+      internalID: -643031687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef2c1bec783ff04080cb7a910e1f87a
+      internalID: 73884850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 540
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01629952c790c4d88f6564e9e1504c
+      internalID: 564951287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 534
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea61e70c3cbeb5468a8dca5e2b020b1
+      internalID: 1782806738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 515
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c545a4c9cd81b34ea65a85a26dd6e33
+      internalID: -99328215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_75
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 546
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d244031e828046bddff20630bbb1f
+      internalID: -155283934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_76
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450427e3aecc9184c815925a8e484155
+      internalID: 667775354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_77
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d8b562037b184d914094c959eea6c
+      internalID: 198599350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_78
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 540
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee4ccbeb876cd4bb23db3b01a104c7
+      internalID: 393610270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_79
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 536
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10bd44db72fc7349bf251604d1faeb2
+      internalID: 1677498259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_80
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 539
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a744fad93996c14680dbfcdfc67a63b
+      internalID: 1985915106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_81
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 538
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05489f368fe9214888b71b1c5c282f6
+      internalID: -1741537997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_82
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 457
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2487f10ca38064dbf4ec97f68c5de1
+      internalID: -1178153530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 457
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e76b2491e6be4a82a663094b28af7
+      internalID: 1753220846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 533
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f3c420db37f84d9af20d1628d52d6
+      internalID: -1250487642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 457
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1564247684e1e64a9f5b274a3083202
+      internalID: -672894737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_86
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 515
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d063ecc815d1444aabdac70aa1372cd
+      internalID: -749127704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_87
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 479
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03359b5fcfebec64aa7a2f5115e48b0a
+      internalID: -968292497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 479
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b1097b804b414e8deba0ffe7365d9
+      internalID: -400084832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_89
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 515
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57cbda61ff60e488a72d8bec674588
+      internalID: 1639307292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_90
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 511
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab396f46dcf8f4b9265795a131527f
+      internalID: -185171016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_91
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 501
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0baf3c0f45ec684d91cd022cccd57c5
+      internalID: -492559781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_92
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 487
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239c8241e507e244e894f07402114363
+      internalID: -1919123230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e0bbfbf61abd44bbe36e006bb00ba
+      internalID: 1904737241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 495
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92f2fa57929884e87ebf5a2577ee6b
+      internalID: -1771342424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba41d1b52fcf9b4182949c25cd03414
+      internalID: 269404331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_96
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 486
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809db00bf0c28043ac054af8bf55fe3
+      internalID: 1001716858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_97
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4886003b4d1db043a2de461fb9ea4b3
+      internalID: -1628457523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_98
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 486
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4403c286049d4c499906b1f8b4478c5
+      internalID: 663897920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 485
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641763ef6644154aa22c286d3c7a485
+      internalID: 990323729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_100
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0c3afeb8ef5c44a4879f7dded5288
+      internalID: 1497546648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_101
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 483
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af07cb07fc1f6745a9a0170fa4a7ee6
+      internalID: 1587118972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_102
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 480
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6bfd0cee23d794bb5a1f633a374a66
+      internalID: 1942331396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 453
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd452514f93e54fbcfe6b6dc162cf0
+      internalID: 1606733577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_104
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 457
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea5da7c3a9d06478a712fe5c205a72
+      internalID: -1768670888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 453
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dca6e54a8dacb45a035927163dc38e
+      internalID: -195980844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_106
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 451
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6ee23458aaa442b17699ba5138a19
+      internalID: 1156590571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_107
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 454
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0cd06155d7ff44a8704cbf8f874781
+      internalID: 698065594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 450
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e481c1463441664d9ef480f973acc92
+      internalID: 489747230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_109
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 454
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f240d423bcc84e854ffe075995a54
+      internalID: -1255462113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_110
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 454
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f9b5d86d28724fa97d62ae6bae7c3
+      internalID: 2146133958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_111
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 454
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5a98d37adb04e41b9cb82083f49d68
+      internalID: 1479163465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_112
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 455
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea53a0a01b42c94e9934ed1d5937f80
+      internalID: -74111321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_113
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f9f8475ce8264a844435d30810418
+      internalID: 1586254391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_114
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 455
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c5c4ecfe51de949941de2a365bf700
+      internalID: -532475499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 455
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b438aac051f9ab41b08e3dc509e4f96
+      internalID: 532575763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_116
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c427dc98a23a4fbbbdbae61dee253
+      internalID: -1177519730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_117
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89814fc8f8e5d4e8705fbfdecb16a0
+      internalID: -414452255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_118
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8626a8f2082e84f8e5119918f55b04
+      internalID: 1129246499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_119
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 457
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bd1c7d2a39a340840ac4476e26b2d
+      internalID: -1593370797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_120
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 457
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745ba35cfdbe1848ba980bda7f440b7
+      internalID: 188912396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 457
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438dae1ebc405ad43931eb2cdaca96b8
+      internalID: -1844657315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 399
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8887366c4bd942873e98777a5d71f
+      internalID: -2034967894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eef7c6fbb2c5f41899809fcc180546
+      internalID: -1645352015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 401
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768e012466fab340bf1a9203f07bbc7
+      internalID: -1458483483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666b5897cd1fa4468e9c2d6ca214383
+      internalID: -2030881928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_126
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c11972f57dc0b4d83bb8f5084bdb58
+      internalID: -1614231342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_127
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc626c7099e420649b5001d68010997d
+      internalID: 551593267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_128
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d1b074e2f86949872653bcb468ac8
+      internalID: -2004080166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_129
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 431
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811612bae7b32a4dab6cbbc5895aa71
+      internalID: -919595740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_130
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 424
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f549f53b4a5e9ba4ca770adfb99c7879
+      internalID: -1458020000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_131
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 431
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c596767d9a08e409deeea504912fde
+      internalID: 724537661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_132
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 432
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2880bb71bbd84f9d014e12776190e
+      internalID: -1220718933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_133
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 424
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb552d84567ba4449e320f6af8a3a4d
+      internalID: -1611760333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_134
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 425
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b105aa78c78944b498d03bc2d417f
+      internalID: -685186878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_135
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 425
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938c4d37b6a7a294283d2c3d582d45af
+      internalID: -60258783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_136
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 425
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656ba7710a17d54c9e47df55f7cd9cf
+      internalID: -236418060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_137
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4efdac0b4c46f14ea660ff8a0a58e23
+      internalID: -570228917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_138
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 440
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82ad012c6afa447be68429ad261aa0
+      internalID: -1057504920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_139
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 434
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582469e1976a4ae40b7b43ef8855ccae
+      internalID: 1085896128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_140
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 407
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedcbd19c1681e845b0e648e47de62d0
+      internalID: -876757490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_141
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 393
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c219fc536f04643a1106fbad60e5a7
+      internalID: 495952534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_142
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 393
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1e6e653f3f1924baeb12e57f9dcd81
+      internalID: 2095248262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_143
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 402
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192262c851ecbb84dbff519ea8da5de0
+      internalID: 1760593307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_144
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 392
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b42d0c22c205469558e2f961a968d
+      internalID: -1222386024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_145
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 392
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389eaaf11f844f4ba5689d0657e7d48
+      internalID: -1717453616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_146
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 385
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01ede6da58ec544868979e2c0c4533
+      internalID: -1738682833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_147
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 385
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0bd3a16eb2a0e41a3c0b872a451a6d
+      internalID: 2025746102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_148
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 385
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43aca460b67b814c918ece7d5adec47
+      internalID: -337888770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_149
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 385
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e17d979ff48be42b99d088fb79a6f1
+      internalID: 1637713367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_150
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 385
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971ec86195da3743a4751ddb344b9d3
+      internalID: 1374154831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_151
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 385
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed63aeb2f2fc143a591b7f48362142
+      internalID: -819998201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_152
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 394
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed769530edf9b4a896d4b294017924
+      internalID: -746177106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_153
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 320
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ae3bf94f42cd46b082e2276ed969e
+      internalID: -712559121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_154
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2498ae5e6d76a794ca54c94d7606b766
+      internalID: -337260393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_155
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 374
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88058644778808745a22a2a0a4c88389
+      internalID: -840168972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_156
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 377
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498661cec5e65b3429150b9f6d15a781
+      internalID: 1468524980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_157
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 355
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d6f0dae1c02c41ba57aad633924a0
+      internalID: -144965606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_158
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 355
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3da071c740e99449ae051e4c522008
+      internalID: -338760133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_159
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 358
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a736dde0f5c64cac26b6b0747bdc7
+      internalID: 1831820043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_160
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 322
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126aebf0262a5a74f875d9b6ea7c492b
+      internalID: 2009454386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_161
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 353
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8183de55ae4c446993aa469a3e9103
+      internalID: 1448478387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_162
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 356
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66376c1e97b586047899754093a8e18b
+      internalID: -1587436987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_163
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 352
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89faab96ef81054caa9b73b556493bc
+      internalID: 1875672758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_164
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 323
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfcfe9d7a257644a8ee45242029fb14
+      internalID: 1517521738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_165
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 323
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee158dc2315cb447b67eee169d173db
+      internalID: -422521100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 323
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4fc90f5dad8f045b5de62812f53199
+      internalID: -392471655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_167
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 323
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b0925e24c84c40a4ad3914e0e95ca
+      internalID: 1513150610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_168
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 312
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa93814a12f76f4db7ed5e7476891a2
+      internalID: -1720158746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_169
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 329
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a35986828fff54fad0ed71389dbcf1
+      internalID: 11297972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_170
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 324
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb81f8d48ae86043a930bbc222686be
+      internalID: 794473348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_171
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 336
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f32d5ebec25b64bbca573c68617b0c
+      internalID: -1896748089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_172
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c35c1b00c2324eb3ed3cc2a2577b5
+      internalID: 1505312049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_173
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d333c468590b44dbf55c5267a452f2
+      internalID: 427023035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_174
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 306
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148ad020d1a6a24981b24d1436a17b7
+      internalID: -2072653534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_175
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 302
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320e7060cb8d3e438d264b17c6580ad
+      internalID: -1049325599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_176
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 311
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbcab1ee73812d4a8e30bd618581239
+      internalID: 2060759288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_177
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487f596d35be4d47b17ce5f693f6ebd
+      internalID: -564071688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_178
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 314
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88d867d63995a498bef3cf322d7fab
+      internalID: 990523295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_179
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 316
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af7ed3475a7a97488e989a38b5b7c66
+      internalID: 1736477233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_180
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 282
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e9642c10eb0748820b96655f769d5
+      internalID: 1534974279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_181
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 304
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a618dbf6ed13847aa6e841004f6bbe
+      internalID: -2122834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_182
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 306
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7bdbe52092e04d8c5434fdebb55a3
+      internalID: -779143371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_183
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 260
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452595359f75f914385fb2a9aac750d1
+      internalID: -338512008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_184
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 264
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a06cb095b34d47912cf435728dc9a
+      internalID: 1789814696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_185
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 293
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bad58753bc51540bc2b62fae377b10
+      internalID: 1160481887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_186
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 288
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67288f914a8195d4b8839ab240003d59
+      internalID: -1404291647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_187
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 295
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cfebe9cce4104fb7c0f64952a63cb
+      internalID: -1454012945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_188
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 273
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf477a77a056546a214fb5e67ea80b
+      internalID: -1149573416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_189
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b454e90a720fcd4fac4fa5e09af13f0
+      internalID: -1552184720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_190
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 274
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6afa1af4f66bd499ef803106291189
+      internalID: 889198298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_191
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 274
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8633eb409bd24488bc2c7d47184494
+      internalID: -2102609471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_192
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 271
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b906f2b61b18f49ac38238809a8f63
+      internalID: 1748734027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_193
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 274
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d325004ce1c724d84995177102540d
+      internalID: 298227742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_194
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 270
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136ba3fdbbef5684bb650c79c2a3f814
+      internalID: 1206764829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_195
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 273
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db960231a30a5b84a9b32e99eb67ab03
+      internalID: -2024580345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_196
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0906ca9387fd49aa288be9e7a94d1
+      internalID: -2122532724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_197
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 257
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83559e1fa1af644aa30a25b0fd344c5
+      internalID: 1058696019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_198
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 256
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abdcaeb68fa72a4f9f3fc11599cd978
+      internalID: 898497245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_199
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb892019d1ede4b9de10afb69df095
+      internalID: -156843622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_200
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54750b6d8096a6045ab44c57cd7c5e81
+      internalID: 238800076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d5fc7171595e4199c214800e621f6
+      internalID: 1650314523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_202
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bd169fca831f4a8d839ba40fc0c24
+      internalID: -634963672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_203
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf61de588042f43ac87a88addcbe33
+      internalID: 1506418007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_204
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 244
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b6f3478ecfc3141819393fb02fa426
+      internalID: -2116902071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_205
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 241
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c42738de9a49644998290426dd365c
+      internalID: 1103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_206
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 233
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111b05467f021b468822a80ac97e05d
+      internalID: 514866946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_207
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 238
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e796dc3fca23632439f6a71c3006a57e
+      internalID: 222431262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_208
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 183
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a02040a46e1d942b9797ece488e0b1
+      internalID: 75836871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_209
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 237
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898516844733394289e011c224cbfc1
+      internalID: -514883934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_210
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 233
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14c9ffab4341f4b9936396eddb10e4
+      internalID: -1905784652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_211
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 196
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b0d6c63f74974b8f2b9983a9011ee
+      internalID: 808746930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_212
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 178
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a992b518a06743983de46f7aa40a4
+      internalID: -1458161142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_213
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 196
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49678b2647bf94f8a39ca4ce959404
+      internalID: -1797287449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_214
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 178
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980419ae6c573944aa6794095e7165d1
+      internalID: 397727100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_215
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a58b99da32db264b83a2fb284038e86
+      internalID: 357721448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_216
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 191
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940bfd0c0ab9a042a00aeaaffca1559
+      internalID: 1698943839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_217
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 156
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bab3a28a412b64f9cbcc3560f19558
+      internalID: 1864409395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_218
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 191
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480726ab7d0dcd4781d4edba2ec0d42
+      internalID: 1833765997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_219
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 156
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f409250f880a3469775d87ec1c6ceb
+      internalID: -2006177916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_220
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 191
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0028d76b7827e408d82b699c622f03
+      internalID: -756494957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_221
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 155
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c30fc9abf8b54245b2896c5518eae7a
+      internalID: -528180127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_222
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 174
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa9ce94905ef34f911b2c3e01f1888
+      internalID: -1716326683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_223
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 145
+        width: 118
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3c36e92cd5c64c8d49b49209f1007
+      internalID: -1583274018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 156
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c5d06e7822974ea7a50a90c5e9c95
+      internalID: 964354071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_225
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 156
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf037e54e90574ba908d13b5c9f4c0
+      internalID: 1214469964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_226
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 162
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae45f2c85cf6d043a7474dd7c877fe3
+      internalID: -1516861205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_227
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf68dcfa8b1694b961995e0c199d0b
+      internalID: 2120683852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_228
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 158
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec14b5c96bc8dc4ea5dfd2f150872d7
+      internalID: -1549213600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_229
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 107
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc70a10a1df2444ab5b9df3e93e3bb7
+      internalID: 1202556999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_230
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 157
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a34a0d18f034b409b5b33a40551e4b
+      internalID: 61575414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_231
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6364e3641334ee44e8f8ad7f9321fa0e
+      internalID: -2013708976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_232
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 151
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458f41034e79454b8b3405548c2cb8a
+      internalID: 1774282485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 151
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffce42d73fd8f1f489efe346e606b93e
+      internalID: 1915683670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_234
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f15b18486abe4caa1d7e40dc8e3c8
+      internalID: 83761489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_235
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6b703f1c086d4c9ca4741c2ae5af4
+      internalID: -686748439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_236
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 123
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3cf092e2e4cf4192bf5ac61e64954
+      internalID: -680692278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_237
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 133
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf13411ba4ca01d4a98083d90a963fc9
+      internalID: -1002669361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_238
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518781b5f825f54c848e9c88f695db3
+      internalID: 552893509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_239
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 133
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf4e24b1f393e4da36f1385f6c6699
+      internalID: 1128759723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_240
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 133
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ec76f0c950024583d8b0e4ae6946b
+      internalID: 1738398495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_241
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 133
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a9629969fc7134a9489021aaa8e179
+      internalID: -211710779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_242
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 133
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b715893305324d40b05d7bd140bd59c
+      internalID: 2141634247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_243
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 133
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9ee2c1c6a8d6469870f5338b0fff0
+      internalID: -1943472143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_244
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 107
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44860be13132aba48bcadef444f69b14
+      internalID: 491490019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_245
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 107
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436904e051433d14586f5fc8f745bc47
+      internalID: 1120501479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_246
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 107
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c97effed8ed8647bde485248315635
+      internalID: -1292227845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_247
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 122
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14650ebd86a7e15458d5afec91c1527b
+      internalID: 959316237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_248
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 109
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499b3c9d0157354899eda9c820b2ed4
+      internalID: -383726744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_249
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 107
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b28f8e33f02de459b3db50f2f9731d
+      internalID: -170464679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_250
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 107
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04946bc96a54114186bff2c5a31f925
+      internalID: 2039654888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_251
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 122
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101aa030eac5fab4a961b21cd4d633be
+      internalID: 1871354356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 122
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df74050ff38ba4c9bab66960e3933c
+      internalID: 584652408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_253
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 121
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84443b40f0d95d64aba45548232a1df0
+      internalID: -442188545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_254
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 121
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bf60e26d653e429dd7878ba9ae21a
+      internalID: 1624945961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_255
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54cadf9a60e8e34fbfb050e28442891
+      internalID: 919518457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_256
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 121
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d92b8f299452e4ea5e5bb112a8af98
+      internalID: -1454663743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_257
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 107
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff2218904602f4197f8ca7046f46b2
+      internalID: -197276675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_258
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b728ac2ef401e84c92ffa1cd22b58d0
+      internalID: -1774006001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_259
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 107
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343d3050dbf7164295f381f515eb86f
+      internalID: 1758230561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_260
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 320
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f272c3d4ab434b8d126000247f452
+      internalID: 1260708545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_261
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af201579c2b0d418c555988066aa69
+      internalID: -1980148259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_262
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4dbe7a1f79cc24cb940822cae0ed7d
+      internalID: 1808700870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_263
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc677cca746114883eba5a72506ef1
+      internalID: 817816114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_264
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7846af07c0c568d45bef37a57cc02072
+      internalID: 1096986113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_265
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96bbacabaaff3c4e994e0310c40701f
+      internalID: -581923484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_266
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05b64598861e04891d4da782e8a5b0
+      internalID: 1415291702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_267
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca84afd98f6263478cca0cb8f1556be
+      internalID: -2053381875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_268
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf957f6e3039242ba1f243183cbb2e
+      internalID: -1054820813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_269
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf74f3abebd79b24ab29d5c4d3dff322
+      internalID: -239964170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_270
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18841a24a1fcc504f87f41211fd354fa
+      internalID: -1281107675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_271
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13fa2b9a42d0d6409bd0a86ce040642
+      internalID: 1852645175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_272
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d766c9a88c0334faa61e16202fa342
+      internalID: -1947450696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_273
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 42
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249ea8a131e910419c32766a39cdb09
+      internalID: -1417015535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_274
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e51c8786decf0f41abe4f720b62c000
+      internalID: 1747958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_275
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 127
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259aa0d6e72ba84f97b1354aa0958d2
+      internalID: -626314388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_276
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 54
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95137bf0734bc734fa9e3cb08bc9ec67
+      internalID: 956137177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_277
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 69
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d88e093d45ca4baea9708b3d9c096
+      internalID: 1455652646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_278
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 17
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15de0b4b66d281043a4cf0774b45ec4f
+      internalID: 1910666584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_279
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d494e6daba808e42a6217c7b88aa679
+      internalID: -1477206719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_280
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 33
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c69da4261936dc47b4fa39a1d643f4c
+      internalID: -671555138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_281
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 17
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb7f9fd0b99af49aba7c7a2d2995d9
+      internalID: 784068225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_282
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9080d4fc9ff4448e537e4a4d94a10
+      internalID: 926149191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_283
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 55
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73988901828614a9eb184677b8f5ac
+      internalID: -114153385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_284
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 21
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a737924dabbb44ad63900d88fddac
+      internalID: 1726050640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_285
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 17
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c4b7a1c371434ab3ebdfbccb82ae4
+      internalID: -2032340712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_286
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 17
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5e9013ff6291469e41696f95b42ae
+      internalID: -20648918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_287
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 69
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fcd9023b15ede4fa5275bb6a999604
+      internalID: 143182284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_288
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a69cd9c4679f2f419b64e67a5b4af55
+      internalID: 1986369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_289
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 17
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce4a3b12eadad4da81ddb1948d5ba5
+      internalID: -1259294840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Miscellaneous_290
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 17
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3977ae6a6b4f43a471c52944d3b33
+      internalID: 1015873711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Jazz Jackrabbit - Miscellaneous_0: -1123076922
+      PC Computer - Jazz Jackrabbit - Miscellaneous_1: 267769205
+      PC Computer - Jazz Jackrabbit - Miscellaneous_10: -1571971108
+      PC Computer - Jazz Jackrabbit - Miscellaneous_100: 1497546648
+      PC Computer - Jazz Jackrabbit - Miscellaneous_101: 1587118972
+      PC Computer - Jazz Jackrabbit - Miscellaneous_102: 1942331396
+      PC Computer - Jazz Jackrabbit - Miscellaneous_103: 1606733577
+      PC Computer - Jazz Jackrabbit - Miscellaneous_104: -1768670888
+      PC Computer - Jazz Jackrabbit - Miscellaneous_105: -195980844
+      PC Computer - Jazz Jackrabbit - Miscellaneous_106: 1156590571
+      PC Computer - Jazz Jackrabbit - Miscellaneous_107: 698065594
+      PC Computer - Jazz Jackrabbit - Miscellaneous_108: 489747230
+      PC Computer - Jazz Jackrabbit - Miscellaneous_109: -1255462113
+      PC Computer - Jazz Jackrabbit - Miscellaneous_11: -1699398070
+      PC Computer - Jazz Jackrabbit - Miscellaneous_110: 2146133958
+      PC Computer - Jazz Jackrabbit - Miscellaneous_111: 1479163465
+      PC Computer - Jazz Jackrabbit - Miscellaneous_112: -74111321
+      PC Computer - Jazz Jackrabbit - Miscellaneous_113: 1586254391
+      PC Computer - Jazz Jackrabbit - Miscellaneous_114: -532475499
+      PC Computer - Jazz Jackrabbit - Miscellaneous_115: 532575763
+      PC Computer - Jazz Jackrabbit - Miscellaneous_116: -1177519730
+      PC Computer - Jazz Jackrabbit - Miscellaneous_117: -414452255
+      PC Computer - Jazz Jackrabbit - Miscellaneous_118: 1129246499
+      PC Computer - Jazz Jackrabbit - Miscellaneous_119: -1593370797
+      PC Computer - Jazz Jackrabbit - Miscellaneous_12: 571164199
+      PC Computer - Jazz Jackrabbit - Miscellaneous_120: 188912396
+      PC Computer - Jazz Jackrabbit - Miscellaneous_121: -1844657315
+      PC Computer - Jazz Jackrabbit - Miscellaneous_122: -2034967894
+      PC Computer - Jazz Jackrabbit - Miscellaneous_123: -1645352015
+      PC Computer - Jazz Jackrabbit - Miscellaneous_124: -1458483483
+      PC Computer - Jazz Jackrabbit - Miscellaneous_125: -2030881928
+      PC Computer - Jazz Jackrabbit - Miscellaneous_126: -1614231342
+      PC Computer - Jazz Jackrabbit - Miscellaneous_127: 551593267
+      PC Computer - Jazz Jackrabbit - Miscellaneous_128: -2004080166
+      PC Computer - Jazz Jackrabbit - Miscellaneous_129: -919595740
+      PC Computer - Jazz Jackrabbit - Miscellaneous_13: 1014373949
+      PC Computer - Jazz Jackrabbit - Miscellaneous_130: -1458020000
+      PC Computer - Jazz Jackrabbit - Miscellaneous_131: 724537661
+      PC Computer - Jazz Jackrabbit - Miscellaneous_132: -1220718933
+      PC Computer - Jazz Jackrabbit - Miscellaneous_133: -1611760333
+      PC Computer - Jazz Jackrabbit - Miscellaneous_134: -685186878
+      PC Computer - Jazz Jackrabbit - Miscellaneous_135: -60258783
+      PC Computer - Jazz Jackrabbit - Miscellaneous_136: -236418060
+      PC Computer - Jazz Jackrabbit - Miscellaneous_137: -570228917
+      PC Computer - Jazz Jackrabbit - Miscellaneous_138: -1057504920
+      PC Computer - Jazz Jackrabbit - Miscellaneous_139: 1085896128
+      PC Computer - Jazz Jackrabbit - Miscellaneous_14: -1025582460
+      PC Computer - Jazz Jackrabbit - Miscellaneous_140: -876757490
+      PC Computer - Jazz Jackrabbit - Miscellaneous_141: 495952534
+      PC Computer - Jazz Jackrabbit - Miscellaneous_142: 2095248262
+      PC Computer - Jazz Jackrabbit - Miscellaneous_143: 1760593307
+      PC Computer - Jazz Jackrabbit - Miscellaneous_144: -1222386024
+      PC Computer - Jazz Jackrabbit - Miscellaneous_145: -1717453616
+      PC Computer - Jazz Jackrabbit - Miscellaneous_146: -1738682833
+      PC Computer - Jazz Jackrabbit - Miscellaneous_147: 2025746102
+      PC Computer - Jazz Jackrabbit - Miscellaneous_148: -337888770
+      PC Computer - Jazz Jackrabbit - Miscellaneous_149: 1637713367
+      PC Computer - Jazz Jackrabbit - Miscellaneous_15: -650839921
+      PC Computer - Jazz Jackrabbit - Miscellaneous_150: 1374154831
+      PC Computer - Jazz Jackrabbit - Miscellaneous_151: -819998201
+      PC Computer - Jazz Jackrabbit - Miscellaneous_152: -746177106
+      PC Computer - Jazz Jackrabbit - Miscellaneous_153: -712559121
+      PC Computer - Jazz Jackrabbit - Miscellaneous_154: -337260393
+      PC Computer - Jazz Jackrabbit - Miscellaneous_155: -840168972
+      PC Computer - Jazz Jackrabbit - Miscellaneous_156: 1468524980
+      PC Computer - Jazz Jackrabbit - Miscellaneous_157: -144965606
+      PC Computer - Jazz Jackrabbit - Miscellaneous_158: -338760133
+      PC Computer - Jazz Jackrabbit - Miscellaneous_159: 1831820043
+      PC Computer - Jazz Jackrabbit - Miscellaneous_16: -737950375
+      PC Computer - Jazz Jackrabbit - Miscellaneous_160: 2009454386
+      PC Computer - Jazz Jackrabbit - Miscellaneous_161: 1448478387
+      PC Computer - Jazz Jackrabbit - Miscellaneous_162: -1587436987
+      PC Computer - Jazz Jackrabbit - Miscellaneous_163: 1875672758
+      PC Computer - Jazz Jackrabbit - Miscellaneous_164: 1517521738
+      PC Computer - Jazz Jackrabbit - Miscellaneous_165: -422521100
+      PC Computer - Jazz Jackrabbit - Miscellaneous_166: -392471655
+      PC Computer - Jazz Jackrabbit - Miscellaneous_167: 1513150610
+      PC Computer - Jazz Jackrabbit - Miscellaneous_168: -1720158746
+      PC Computer - Jazz Jackrabbit - Miscellaneous_169: 11297972
+      PC Computer - Jazz Jackrabbit - Miscellaneous_17: -471379311
+      PC Computer - Jazz Jackrabbit - Miscellaneous_170: 794473348
+      PC Computer - Jazz Jackrabbit - Miscellaneous_171: -1896748089
+      PC Computer - Jazz Jackrabbit - Miscellaneous_172: 1505312049
+      PC Computer - Jazz Jackrabbit - Miscellaneous_173: 427023035
+      PC Computer - Jazz Jackrabbit - Miscellaneous_174: -2072653534
+      PC Computer - Jazz Jackrabbit - Miscellaneous_175: -1049325599
+      PC Computer - Jazz Jackrabbit - Miscellaneous_176: 2060759288
+      PC Computer - Jazz Jackrabbit - Miscellaneous_177: -564071688
+      PC Computer - Jazz Jackrabbit - Miscellaneous_178: 990523295
+      PC Computer - Jazz Jackrabbit - Miscellaneous_179: 1736477233
+      PC Computer - Jazz Jackrabbit - Miscellaneous_18: 18861412
+      PC Computer - Jazz Jackrabbit - Miscellaneous_180: 1534974279
+      PC Computer - Jazz Jackrabbit - Miscellaneous_181: -2122834900
+      PC Computer - Jazz Jackrabbit - Miscellaneous_182: -779143371
+      PC Computer - Jazz Jackrabbit - Miscellaneous_183: -338512008
+      PC Computer - Jazz Jackrabbit - Miscellaneous_184: 1789814696
+      PC Computer - Jazz Jackrabbit - Miscellaneous_185: 1160481887
+      PC Computer - Jazz Jackrabbit - Miscellaneous_186: -1404291647
+      PC Computer - Jazz Jackrabbit - Miscellaneous_187: -1454012945
+      PC Computer - Jazz Jackrabbit - Miscellaneous_188: -1149573416
+      PC Computer - Jazz Jackrabbit - Miscellaneous_189: -1552184720
+      PC Computer - Jazz Jackrabbit - Miscellaneous_19: 444014319
+      PC Computer - Jazz Jackrabbit - Miscellaneous_190: 889198298
+      PC Computer - Jazz Jackrabbit - Miscellaneous_191: -2102609471
+      PC Computer - Jazz Jackrabbit - Miscellaneous_192: 1748734027
+      PC Computer - Jazz Jackrabbit - Miscellaneous_193: 298227742
+      PC Computer - Jazz Jackrabbit - Miscellaneous_194: 1206764829
+      PC Computer - Jazz Jackrabbit - Miscellaneous_195: -2024580345
+      PC Computer - Jazz Jackrabbit - Miscellaneous_196: -2122532724
+      PC Computer - Jazz Jackrabbit - Miscellaneous_197: 1058696019
+      PC Computer - Jazz Jackrabbit - Miscellaneous_198: 898497245
+      PC Computer - Jazz Jackrabbit - Miscellaneous_199: -156843622
+      PC Computer - Jazz Jackrabbit - Miscellaneous_2: -316146746
+      PC Computer - Jazz Jackrabbit - Miscellaneous_20: -12188781
+      PC Computer - Jazz Jackrabbit - Miscellaneous_200: 238800076
+      PC Computer - Jazz Jackrabbit - Miscellaneous_201: 1650314523
+      PC Computer - Jazz Jackrabbit - Miscellaneous_202: -634963672
+      PC Computer - Jazz Jackrabbit - Miscellaneous_203: 1506418007
+      PC Computer - Jazz Jackrabbit - Miscellaneous_204: -2116902071
+      PC Computer - Jazz Jackrabbit - Miscellaneous_205: 1103142
+      PC Computer - Jazz Jackrabbit - Miscellaneous_206: 514866946
+      PC Computer - Jazz Jackrabbit - Miscellaneous_207: 222431262
+      PC Computer - Jazz Jackrabbit - Miscellaneous_208: 75836871
+      PC Computer - Jazz Jackrabbit - Miscellaneous_209: -514883934
+      PC Computer - Jazz Jackrabbit - Miscellaneous_21: -2082662284
+      PC Computer - Jazz Jackrabbit - Miscellaneous_210: -1905784652
+      PC Computer - Jazz Jackrabbit - Miscellaneous_211: 808746930
+      PC Computer - Jazz Jackrabbit - Miscellaneous_212: -1458161142
+      PC Computer - Jazz Jackrabbit - Miscellaneous_213: -1797287449
+      PC Computer - Jazz Jackrabbit - Miscellaneous_214: 397727100
+      PC Computer - Jazz Jackrabbit - Miscellaneous_215: 357721448
+      PC Computer - Jazz Jackrabbit - Miscellaneous_216: 1698943839
+      PC Computer - Jazz Jackrabbit - Miscellaneous_217: 1864409395
+      PC Computer - Jazz Jackrabbit - Miscellaneous_218: 1833765997
+      PC Computer - Jazz Jackrabbit - Miscellaneous_219: -2006177916
+      PC Computer - Jazz Jackrabbit - Miscellaneous_22: 427397629
+      PC Computer - Jazz Jackrabbit - Miscellaneous_220: -756494957
+      PC Computer - Jazz Jackrabbit - Miscellaneous_221: -528180127
+      PC Computer - Jazz Jackrabbit - Miscellaneous_222: -1716326683
+      PC Computer - Jazz Jackrabbit - Miscellaneous_223: -1583274018
+      PC Computer - Jazz Jackrabbit - Miscellaneous_224: 964354071
+      PC Computer - Jazz Jackrabbit - Miscellaneous_225: 1214469964
+      PC Computer - Jazz Jackrabbit - Miscellaneous_226: -1516861205
+      PC Computer - Jazz Jackrabbit - Miscellaneous_227: 2120683852
+      PC Computer - Jazz Jackrabbit - Miscellaneous_228: -1549213600
+      PC Computer - Jazz Jackrabbit - Miscellaneous_229: 1202556999
+      PC Computer - Jazz Jackrabbit - Miscellaneous_23: -1534654272
+      PC Computer - Jazz Jackrabbit - Miscellaneous_230: 61575414
+      PC Computer - Jazz Jackrabbit - Miscellaneous_231: -2013708976
+      PC Computer - Jazz Jackrabbit - Miscellaneous_232: 1774282485
+      PC Computer - Jazz Jackrabbit - Miscellaneous_233: 1915683670
+      PC Computer - Jazz Jackrabbit - Miscellaneous_234: 83761489
+      PC Computer - Jazz Jackrabbit - Miscellaneous_235: -686748439
+      PC Computer - Jazz Jackrabbit - Miscellaneous_236: -680692278
+      PC Computer - Jazz Jackrabbit - Miscellaneous_237: -1002669361
+      PC Computer - Jazz Jackrabbit - Miscellaneous_238: 552893509
+      PC Computer - Jazz Jackrabbit - Miscellaneous_239: 1128759723
+      PC Computer - Jazz Jackrabbit - Miscellaneous_24: -1724634433
+      PC Computer - Jazz Jackrabbit - Miscellaneous_240: 1738398495
+      PC Computer - Jazz Jackrabbit - Miscellaneous_241: -211710779
+      PC Computer - Jazz Jackrabbit - Miscellaneous_242: 2141634247
+      PC Computer - Jazz Jackrabbit - Miscellaneous_243: -1943472143
+      PC Computer - Jazz Jackrabbit - Miscellaneous_244: 491490019
+      PC Computer - Jazz Jackrabbit - Miscellaneous_245: 1120501479
+      PC Computer - Jazz Jackrabbit - Miscellaneous_246: -1292227845
+      PC Computer - Jazz Jackrabbit - Miscellaneous_247: 959316237
+      PC Computer - Jazz Jackrabbit - Miscellaneous_248: -383726744
+      PC Computer - Jazz Jackrabbit - Miscellaneous_249: -170464679
+      PC Computer - Jazz Jackrabbit - Miscellaneous_25: -1667936524
+      PC Computer - Jazz Jackrabbit - Miscellaneous_250: 2039654888
+      PC Computer - Jazz Jackrabbit - Miscellaneous_251: 1871354356
+      PC Computer - Jazz Jackrabbit - Miscellaneous_252: 584652408
+      PC Computer - Jazz Jackrabbit - Miscellaneous_253: -442188545
+      PC Computer - Jazz Jackrabbit - Miscellaneous_254: 1624945961
+      PC Computer - Jazz Jackrabbit - Miscellaneous_255: 919518457
+      PC Computer - Jazz Jackrabbit - Miscellaneous_256: -1454663743
+      PC Computer - Jazz Jackrabbit - Miscellaneous_257: -197276675
+      PC Computer - Jazz Jackrabbit - Miscellaneous_258: -1774006001
+      PC Computer - Jazz Jackrabbit - Miscellaneous_259: 1758230561
+      PC Computer - Jazz Jackrabbit - Miscellaneous_26: 1838752959
+      PC Computer - Jazz Jackrabbit - Miscellaneous_260: 1260708545
+      PC Computer - Jazz Jackrabbit - Miscellaneous_261: -1980148259
+      PC Computer - Jazz Jackrabbit - Miscellaneous_262: 1808700870
+      PC Computer - Jazz Jackrabbit - Miscellaneous_263: 817816114
+      PC Computer - Jazz Jackrabbit - Miscellaneous_264: 1096986113
+      PC Computer - Jazz Jackrabbit - Miscellaneous_265: -581923484
+      PC Computer - Jazz Jackrabbit - Miscellaneous_266: 1415291702
+      PC Computer - Jazz Jackrabbit - Miscellaneous_267: -2053381875
+      PC Computer - Jazz Jackrabbit - Miscellaneous_268: -1054820813
+      PC Computer - Jazz Jackrabbit - Miscellaneous_269: -239964170
+      PC Computer - Jazz Jackrabbit - Miscellaneous_27: 1142508446
+      PC Computer - Jazz Jackrabbit - Miscellaneous_270: -1281107675
+      PC Computer - Jazz Jackrabbit - Miscellaneous_271: 1852645175
+      PC Computer - Jazz Jackrabbit - Miscellaneous_272: -1947450696
+      PC Computer - Jazz Jackrabbit - Miscellaneous_273: -1417015535
+      PC Computer - Jazz Jackrabbit - Miscellaneous_274: 1747958
+      PC Computer - Jazz Jackrabbit - Miscellaneous_275: -626314388
+      PC Computer - Jazz Jackrabbit - Miscellaneous_276: 956137177
+      PC Computer - Jazz Jackrabbit - Miscellaneous_277: 1455652646
+      PC Computer - Jazz Jackrabbit - Miscellaneous_278: 1910666584
+      PC Computer - Jazz Jackrabbit - Miscellaneous_279: -1477206719
+      PC Computer - Jazz Jackrabbit - Miscellaneous_28: 2102367055
+      PC Computer - Jazz Jackrabbit - Miscellaneous_280: -671555138
+      PC Computer - Jazz Jackrabbit - Miscellaneous_281: 784068225
+      PC Computer - Jazz Jackrabbit - Miscellaneous_282: 926149191
+      PC Computer - Jazz Jackrabbit - Miscellaneous_283: -114153385
+      PC Computer - Jazz Jackrabbit - Miscellaneous_284: 1726050640
+      PC Computer - Jazz Jackrabbit - Miscellaneous_285: -2032340712
+      PC Computer - Jazz Jackrabbit - Miscellaneous_286: -20648918
+      PC Computer - Jazz Jackrabbit - Miscellaneous_287: 143182284
+      PC Computer - Jazz Jackrabbit - Miscellaneous_288: 1986369403
+      PC Computer - Jazz Jackrabbit - Miscellaneous_289: -1259294840
+      PC Computer - Jazz Jackrabbit - Miscellaneous_29: 2045758255
+      PC Computer - Jazz Jackrabbit - Miscellaneous_290: 1015873711
+      PC Computer - Jazz Jackrabbit - Miscellaneous_3: -221288014
+      PC Computer - Jazz Jackrabbit - Miscellaneous_30: 1567255745
+      PC Computer - Jazz Jackrabbit - Miscellaneous_31: -1984333819
+      PC Computer - Jazz Jackrabbit - Miscellaneous_32: 1057816614
+      PC Computer - Jazz Jackrabbit - Miscellaneous_33: -1825275000
+      PC Computer - Jazz Jackrabbit - Miscellaneous_34: 814094007
+      PC Computer - Jazz Jackrabbit - Miscellaneous_35: -1113326432
+      PC Computer - Jazz Jackrabbit - Miscellaneous_36: -991351521
+      PC Computer - Jazz Jackrabbit - Miscellaneous_37: -1823404238
+      PC Computer - Jazz Jackrabbit - Miscellaneous_38: 173288622
+      PC Computer - Jazz Jackrabbit - Miscellaneous_39: 1707738391
+      PC Computer - Jazz Jackrabbit - Miscellaneous_4: 1867298594
+      PC Computer - Jazz Jackrabbit - Miscellaneous_40: -1304773125
+      PC Computer - Jazz Jackrabbit - Miscellaneous_41: 326879911
+      PC Computer - Jazz Jackrabbit - Miscellaneous_42: -654762553
+      PC Computer - Jazz Jackrabbit - Miscellaneous_43: -240945753
+      PC Computer - Jazz Jackrabbit - Miscellaneous_44: 1556673365
+      PC Computer - Jazz Jackrabbit - Miscellaneous_45: 498739943
+      PC Computer - Jazz Jackrabbit - Miscellaneous_46: 1687439051
+      PC Computer - Jazz Jackrabbit - Miscellaneous_47: -371865229
+      PC Computer - Jazz Jackrabbit - Miscellaneous_48: 742751228
+      PC Computer - Jazz Jackrabbit - Miscellaneous_49: -81446026
+      PC Computer - Jazz Jackrabbit - Miscellaneous_5: 1112131831
+      PC Computer - Jazz Jackrabbit - Miscellaneous_50: -1994856928
+      PC Computer - Jazz Jackrabbit - Miscellaneous_51: 491157615
+      PC Computer - Jazz Jackrabbit - Miscellaneous_52: 664728136
+      PC Computer - Jazz Jackrabbit - Miscellaneous_53: -840339793
+      PC Computer - Jazz Jackrabbit - Miscellaneous_54: 1204726650
+      PC Computer - Jazz Jackrabbit - Miscellaneous_55: 922798673
+      PC Computer - Jazz Jackrabbit - Miscellaneous_56: -297243051
+      PC Computer - Jazz Jackrabbit - Miscellaneous_57: -791133345
+      PC Computer - Jazz Jackrabbit - Miscellaneous_58: 273104089
+      PC Computer - Jazz Jackrabbit - Miscellaneous_59: -1648891096
+      PC Computer - Jazz Jackrabbit - Miscellaneous_6: 1272069951
+      PC Computer - Jazz Jackrabbit - Miscellaneous_60: 275038963
+      PC Computer - Jazz Jackrabbit - Miscellaneous_61: 2119886505
+      PC Computer - Jazz Jackrabbit - Miscellaneous_62: -623538520
+      PC Computer - Jazz Jackrabbit - Miscellaneous_63: -1506922348
+      PC Computer - Jazz Jackrabbit - Miscellaneous_64: 1627160730
+      PC Computer - Jazz Jackrabbit - Miscellaneous_65: -2020062597
+      PC Computer - Jazz Jackrabbit - Miscellaneous_66: -1973435113
+      PC Computer - Jazz Jackrabbit - Miscellaneous_67: 36510908
+      PC Computer - Jazz Jackrabbit - Miscellaneous_68: 1772779593
+      PC Computer - Jazz Jackrabbit - Miscellaneous_69: 1866526611
+      PC Computer - Jazz Jackrabbit - Miscellaneous_7: -1570871655
+      PC Computer - Jazz Jackrabbit - Miscellaneous_70: -643031687
+      PC Computer - Jazz Jackrabbit - Miscellaneous_71: 73884850
+      PC Computer - Jazz Jackrabbit - Miscellaneous_72: 564951287
+      PC Computer - Jazz Jackrabbit - Miscellaneous_73: 1782806738
+      PC Computer - Jazz Jackrabbit - Miscellaneous_74: -99328215
+      PC Computer - Jazz Jackrabbit - Miscellaneous_75: -155283934
+      PC Computer - Jazz Jackrabbit - Miscellaneous_76: 667775354
+      PC Computer - Jazz Jackrabbit - Miscellaneous_77: 198599350
+      PC Computer - Jazz Jackrabbit - Miscellaneous_78: 393610270
+      PC Computer - Jazz Jackrabbit - Miscellaneous_79: 1677498259
+      PC Computer - Jazz Jackrabbit - Miscellaneous_8: 1171386773
+      PC Computer - Jazz Jackrabbit - Miscellaneous_80: 1985915106
+      PC Computer - Jazz Jackrabbit - Miscellaneous_81: -1741537997
+      PC Computer - Jazz Jackrabbit - Miscellaneous_82: -1178153530
+      PC Computer - Jazz Jackrabbit - Miscellaneous_83: 1753220846
+      PC Computer - Jazz Jackrabbit - Miscellaneous_84: -1250487642
+      PC Computer - Jazz Jackrabbit - Miscellaneous_85: -672894737
+      PC Computer - Jazz Jackrabbit - Miscellaneous_86: -749127704
+      PC Computer - Jazz Jackrabbit - Miscellaneous_87: -968292497
+      PC Computer - Jazz Jackrabbit - Miscellaneous_88: -400084832
+      PC Computer - Jazz Jackrabbit - Miscellaneous_89: 1639307292
+      PC Computer - Jazz Jackrabbit - Miscellaneous_9: 1866347114
+      PC Computer - Jazz Jackrabbit - Miscellaneous_90: -185171016
+      PC Computer - Jazz Jackrabbit - Miscellaneous_91: -492559781
+      PC Computer - Jazz Jackrabbit - Miscellaneous_92: -1919123230
+      PC Computer - Jazz Jackrabbit - Miscellaneous_93: 1904737241
+      PC Computer - Jazz Jackrabbit - Miscellaneous_94: -1771342424
+      PC Computer - Jazz Jackrabbit - Miscellaneous_95: 269404331
+      PC Computer - Jazz Jackrabbit - Miscellaneous_96: 1001716858
+      PC Computer - Jazz Jackrabbit - Miscellaneous_97: -1628457523
+      PC Computer - Jazz Jackrabbit - Miscellaneous_98: 663897920
+      PC Computer - Jazz Jackrabbit - Miscellaneous_99: 990323729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

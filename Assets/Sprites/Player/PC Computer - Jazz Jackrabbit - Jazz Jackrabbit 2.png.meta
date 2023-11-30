@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: f3becdd4aa51510468d5c98f3fa5c168
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e147781ff3a601241903c06cd08335cd
+      internalID: 599210473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a88f6132c10e44aa527f3eb880376f
+      internalID: -411129454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefd20bda1cb494b9fdad520e5aae72
+      internalID: -175761567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 65
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b6ae84ee76e949a9cd99ea7a4c247
+      internalID: 1793201011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 65
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d707491fdc184985ad28b0951af08
+      internalID: 1280461131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5d94ffa952e64481c97921153bb91
+      internalID: -1788130329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f116a76e35264b88afe819ba048ce
+      internalID: 1489334897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 65
+        width: 30
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20577300c3bd70a4f8283700f34b173d
+      internalID: -1425793710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 65
+        width: 26
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac1667ee834294ea6424707649c8df
+      internalID: -340024390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 307
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980304763b31ee42b1187d50eb9e7a7
+      internalID: 939266347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_0: 939266347
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_1: -1019073251
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_10: 1388716570
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_11: -661008980
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_12: -791317301
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_13: -179606519
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_14: -232438871
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_15: 1117514592
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_16: 1256820642
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_17: 1738433399
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_18: -1079940290
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_19: -395105206
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_2: -317315170
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_20: -1593409333
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_21: -2040887653
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_22: -361198655
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_23: -1788506330
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_24: 1775273767
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_25: -1936033856
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_26: 1633900492
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_27: -1397294055
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_28: 67774813
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_29: 758998688
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_3: -353322499
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_30: -530574274
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_31: 1085184639
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_32: 1556867137
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_33: 732160300
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_34: 1701957363
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_35: -2114638811
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_36: -1509321002
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_37: 829967072
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_38: 335331953
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_39: 1103792175
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_4: 732637424
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_40: -77617149
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_41: -1309312510
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_42: 1165166730
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_43: -276545630
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_44: -1757204170
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_45: 1172973576
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_46: -2036740089
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_47: 599210473
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_48: -411129454
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_49: -175761567
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_5: -1891064412
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_50: 1793201011
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_51: 1280461131
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_52: -1788130329
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_53: 1489334897
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_54: -1425793710
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_55: -340024390
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_6: -365152762
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_7: -871576942
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_8: 1293202072
+      PC Computer - Jazz Jackrabbit - Jazz Jackrabbit 2_9: -905380697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
