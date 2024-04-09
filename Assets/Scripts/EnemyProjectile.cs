@@ -15,10 +15,7 @@ public class EnemyProjectile : MonoBehaviour
                 playerHealth.TakeDamage(damageAmount);
             }
 
-            // Debug statement to confirm the collision
-            Debug.Log("Bullet hit player!");
-
-            // Destroy the projectile when it hits the player
+          
             Destroy(gameObject);
         }
     }

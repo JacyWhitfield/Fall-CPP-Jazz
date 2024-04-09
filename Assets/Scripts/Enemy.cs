@@ -10,14 +10,14 @@ public class Enemy : MonoBehaviour
     private Animator anim;
     private Transform currentPoint;
     public float speed;
-
+    private AudioSource audioSource;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         currentPoint = pointB.transform;
-
+        audioSource = GetComponent<AudioSource>();
     }
 
 
@@ -47,7 +47,26 @@ public class Enemy : MonoBehaviour
             currentPoint = pointB.transform;
         }
     }
-   
+    public void TriggerDeath()
+    {
+        StartCoroutine(DieWithDelay());
+    }
+
+    private IEnumerator DieWithDelay()
+    {
+        // Play the death sound
+        if (audioSource != null)
+        {
+            audioSource.Play();
+        }
+
+        // Wait for the audio clip to finish
+        yield return new WaitForSeconds(audioSource.clip.length);
+
+        // Then destroy the GameObject
+        Destroy(gameObject);
+    }
+
     private void flip()
     {
         Vector3 localScale = transform.localScale;

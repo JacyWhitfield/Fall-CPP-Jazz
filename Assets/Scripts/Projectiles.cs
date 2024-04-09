@@ -9,30 +9,47 @@ public class Projectile : MonoBehaviour
     {
         // Set the initial velocity of the projectile
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
-       // rb.velocity = transform.right * projectileSpeed;
+        // rb.velocity = transform.right * projectileSpeed;
 
         // Destroy the projectile after a specified time (e.g., projectileLifetime)
         Destroy(gameObject, projectileLifetime);
-    }
-
-    private void Update()
-    {
-        // Handle projectile movement, effects, or other behavior here
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            Debug.Log("Collided with an enemy");
+       
 
-            // Destroy the enemy object
-            Destroy(collision.gameObject);
+            // Trigger death sequence in Enemy script
+            Enemy enemy = collision.gameObject.GetComponent<Enemy>();
+            if (enemy != null)
+            {
+                enemy.TriggerDeath();
+            }
+
+            // Destroy the projectile
             Destroy(gameObject);
         }
+        else if (collision.gameObject.CompareTag("EnemyTurret")) // Check for EnemyTurret
+        {
+           
+
+            // Trigger death sequence in EnemyTurret script
+            EnemyTurret enemyTurret = collision.gameObject.GetComponent<EnemyTurret>();
+            if (enemyTurret != null)
+            {
+                enemyTurret.TriggerDeath();
+            }
+
+            // Destroy the projectile
+            Destroy(gameObject);
+        }
+        // ... rest of your collision handling ...
+    
         else if (collision.gameObject.CompareTag("Pickup"))
         {
-            Debug.Log("Shot a pickup");
+          
 
             // Destroy the pickup object
             Destroy(collision.gameObject);
@@ -49,7 +66,7 @@ public class Projectile : MonoBehaviour
         }
         else if (collision.gameObject.CompareTag("Wall"))
         {
-            Debug.Log("Shot a wall");
+            
 
             Destroy(gameObject);
         }

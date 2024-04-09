@@ -35,17 +35,17 @@ public class PlayerController : MonoBehaviour
         if (groundCheckRadius <= 0)
         {
             groundCheckRadius = 0.01f;
-            Debug.Log("groundcheck set to default value");
+           
         }
         if (speed <= 0)
         {
             speed = 5.0f;
-            Debug.Log("speed set to default value");
+            
         }
         if (jumpForce <= 0)
         {
             jumpForce = 300.0f;
-            Debug.Log("jumpforce set to default value");
+            
         }
         if (groundCheck == null)
         {

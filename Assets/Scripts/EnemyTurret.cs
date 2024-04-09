@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class EnemyTurret : MonoBehaviour
 {
@@ -14,12 +15,14 @@ public class EnemyTurret : MonoBehaviour
     private bool isFacingRight = true;     // Check if the turret is facing right
 
     private Animator animator;             // Reference to the turret's animator
+    private AudioSource audioSource;
 
     private void Start()
     {
         // Find the player GameObject by its tag (you can change this to a different method if needed)
         player = GameObject.FindGameObjectWithTag("Player").transform;
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -73,6 +76,26 @@ public class EnemyTurret : MonoBehaviour
                 animator.SetTrigger("Shoot");
             }
         }
+    }
+
+    public void TriggerDeath()
+    {
+        StartCoroutine(DieWithDelay());
+    }
+
+    private IEnumerator DieWithDelay()
+    {
+       
+        if (audioSource != null)
+        {
+            audioSource.Play();
+        }
+       
+      
+        yield return new WaitForSeconds(audioSource.clip.length);
+
+        
+        Destroy(gameObject);
     }
 
     private void Flip(bool isFlipped)

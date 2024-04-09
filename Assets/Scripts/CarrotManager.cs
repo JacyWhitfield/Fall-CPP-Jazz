@@ -16,6 +16,6 @@ public class CarrotManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        carrotText.text = "Carrots: " + carrotCount.ToString();
+        carrotText.text = ": " + carrotCount.ToString();
     }
 }

@@ -19,7 +19,7 @@ public class Controller2D : MonoBehaviour
 
     
 
-    BoxCollider2D collider;
+    public BoxCollider2D collider;
     RaycastOrigins raycastOrigins;
     public CollisionInfo collisions;
 

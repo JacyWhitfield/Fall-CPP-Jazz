@@ -1,32 +1,49 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
 {
     public int playerHealth = 100; // Initial player health
-
-    // Method to handle player taking damage
+    private bool canTakeDamage = true;
+    public GameObject deathPanel; // Reference to the death panel GameObject
+    private AudioSource audioSource;
     public void TakeDamage(int damageAmount)
     {
-        playerHealth -= damageAmount;
-
-        // Check if player's health is zero or less to indicate player death
-        if (playerHealth <= 0)
+        if (canTakeDamage)
         {
-            Die(); // Call the method to handle player death
-        }
-        {
-            Debug.Log("Player took damage: " + damageAmount);
             playerHealth -= damageAmount;
-            // Rest of the code...
+          
+            if (audioSource != null)
+            {
+                audioSource.Play();
+            }
+
+            if (playerHealth <= 0)
+            {
+                Die();
+            }
+
+        
+            StartCoroutine(DamageCooldown(0.5f));
         }
     }
 
-    // Method to handle player death
+    IEnumerator DamageCooldown(float delay)
+    {
+        canTakeDamage = false; // Prevent further damage
+        yield return new WaitForSeconds(delay);
+        canTakeDamage = true; // Enable damage-taking again after the delay
+    }
+    private void Start()
+    {
+       
+        audioSource = GetComponent<AudioSource>();
+    }
     void Die()
     {
-        // Add logic to handle player death, e.g., play death animation, show game over screen, or reset player's position
-        // For example, you can reload the current scene:
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+       
+        GameManager.ReturnToMainMenu();
     }
 }

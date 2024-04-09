@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Controller2D))]
 public class Player : MonoBehaviour
@@ -14,10 +15,7 @@ public class Player : MonoBehaviour
     float jumpVelocity;
     Vector3 velocity;
     float velocityXSmoothing;
-
     public LayerMask groundLayer;
-   
-
     private float temporaryJumpVelocity;
     private float jumpPadMultiplier = 1.75f; // Default jump pad multiplier
     private Animator jumpPadAnimator;
@@ -31,7 +29,7 @@ public class Player : MonoBehaviour
     public float projectileLifetime = 2f; // Lifetime of the projectile
     Controller2D controller;
     private bool isUsingNewBullet = false;
-
+    public int playerHealth = 100;
     private bool useTemporaryJump = false;
 
     void Start()
@@ -76,37 +74,34 @@ public class Player : MonoBehaviour
         {
             transform.localScale = new Vector3(Mathf.Sign(input.x), 1);
         }
-       
 
-        if (Input.GetMouseButtonDown(0))
+        if (!GameManager.Instance.IsPaused) // Check if the game is not paused
         {
-            bool isIdle = (input.x == 0);
-
-            animator.SetBool("IsMoving", !isIdle);
-            animator.SetTrigger("Shoot");
-
-            Vector2 bulletDirection = Vector2.right; // Default direction (right)
-
-            if (transform.localScale.x < 0) // If the player is facing left, change the direction to left
+            if (Input.GetMouseButtonDown(0))
             {
-                
-                bulletDirection = Vector2.left;
-            }
+                bool isIdle = (input.x == 0);
 
-            if (isUsingNewBullet && currentNewBulletShots > 0)
-            {
-                ShootNewBullet(bulletDirection);
-                currentNewBulletShots--;
-            }
-            else
-            {
-                ShootOriginalBullet(bulletDirection);
+                animator.SetBool("IsMoving", !isIdle);
+                animator.SetTrigger("Shoot");
+
+                Vector2 bulletDirection = Vector2.right; // Default direction (right)
+
+                if (transform.localScale.x < 0) // If the player is facing left, change the direction to left
+                {
+                    bulletDirection = Vector2.left;
+                }
+
+                if (isUsingNewBullet && currentNewBulletShots > 0)
+                {
+                    ShootNewBullet(bulletDirection);
+                    currentNewBulletShots--;
+                }
+                else
+                {
+                    ShootOriginalBullet(bulletDirection);
+                }
             }
         }
-
-      
-
-
         animator.SetBool("IsMoving", Mathf.Abs(input.x) > 0);
         animator.SetBool("IsFalling", velocity.y < 0 && controller.collisions.below == false);
         animator.SetBool("IsGrounded", controller.collisions.below == true);
@@ -114,6 +109,11 @@ public class Player : MonoBehaviour
         velocity.x = Mathf.SmoothDamp(velocity.x, targetVelocityX, ref velocityXSmoothing, (controller.collisions.below) ? accelerationTimeGrounded : accelerationTimeAirborne);
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
+    }
+
+    public void SwitchToNewBullet()
+    {
+        isUsingNewBullet = true;
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -138,15 +138,24 @@ public class Player : MonoBehaviour
 
         if (other.CompareTag("Enemy"))
         {
-            Debug.Log("Collision with enemy");
-        }
+            PlayerHealth playerHealth = GetComponent<PlayerHealth>();
 
+            if (playerHealth != null)
+            {
+                int damageAmount = 10; // You can adjust the damage amount as needed
+                playerHealth.TakeDamage(damageAmount);
+            }
+        }
+        if (other.CompareTag("EndGame"))
+        {
+            // Load the "EndGame" scene
+            SceneManager.LoadScene("EndGame");
+        }
         if (other.CompareTag("Pickup"))
         {
             Debug.Log("Picked up a pickup");
             isUsingNewBullet = true;
             currentNewBulletShots += 5;
-            Destroy(other.gameObject);
         }
     }
 
@@ -172,20 +181,13 @@ public class Player : MonoBehaviour
 
     void ShootNewBullet(Vector2 direction)
     {
-        Debug.Log("Shoot new bullet method called");
-
         if (gunTransform != null && newProjectilePrefab != null)
         {
             Vector3 spawnPosition = gunTransform.position;
-
-
             GameObject newProjectile = Instantiate(newProjectilePrefab, spawnPosition, Quaternion.identity);
-            Debug.Log("New projectile instantiated");
-
             Rigidbody2D rb = newProjectile.GetComponent<Rigidbody2D>();
             rb.velocity = direction * projectileSpeed;
             newProjectile.transform.localScale = new Vector3(direction.x, 1, 1);
-
             Destroy(newProjectile, projectileLifetime);
         }
         else
@@ -193,24 +195,15 @@ public class Player : MonoBehaviour
             Debug.LogWarning("gunTransform or newProjectilePrefab is null. Make sure they are assigned in the Inspector.");
         }
     }
-    public void SwitchToNewBullet()
-    {
-        isUsingNewBullet = true;
-    }
+
     void ShootOriginalBullet(Vector2 direction)
     {
-        Debug.Log("Shoot original bullet method called");
-
         if (gunTransform != null)
         {
             Vector3 spawnPosition = gunTransform.position;
-
             GameObject originalProjectile = Instantiate(projectilePrefab, spawnPosition, Quaternion.identity);
-            Debug.Log("Original projectile instantiated");
-
             Rigidbody2D rb = originalProjectile.GetComponent<Rigidbody2D>();
             rb.velocity = direction * projectileSpeed;
-
             Destroy(originalProjectile, projectileLifetime);
         }
         else

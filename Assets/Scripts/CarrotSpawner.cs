@@ -21,7 +21,7 @@ public class CarrotSpawner : MonoBehaviour
     {
         if (numberOfCarrots > availableSpawnPoints.Count)
         {
-            Debug.LogWarning("Not enough available spawn points for the desired number of carrots.");
+          
             numberOfCarrots = availableSpawnPoints.Count;
         }
 

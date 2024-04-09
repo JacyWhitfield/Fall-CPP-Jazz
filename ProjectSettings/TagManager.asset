@@ -9,6 +9,10 @@ TagManager:
   - JumpPad
   - Pickup
   - Carrots
+  - PlayerLivesUI
+  - PauseMenu
+  - EndGame
+  - EnemyTurret
   layers:
   - Default
   - TransparentFX
